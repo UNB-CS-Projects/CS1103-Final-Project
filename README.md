@@ -6,6 +6,6 @@ Christian Dennis | Student ID: 3729509
 
 Member 2
 
-3
+Member 3
 
-etc
+Member 4
