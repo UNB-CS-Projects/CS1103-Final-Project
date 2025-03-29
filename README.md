@@ -2,10 +2,11 @@
 
 Members: 
 
-Christian Dennis | Student ID: 3729509
+Christian Dennis
 
-Member 2
+Hadi Akbar
 
-Member 3
+Prabhas Dulam
 
-Member 4
+Rudolph Stephen
+
