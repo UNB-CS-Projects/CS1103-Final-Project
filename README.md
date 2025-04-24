@@ -1,12 +1,20 @@
-# CS1103-Final-Project
+## Zoo Database Management System
 
-Members: 
+This project is a comprehensive relational database solution developed for managing zoo operations, created as part of the course **CS 1103 - Introduction to Databases** at the University of New Brunswick.
 
-Christian Dennis
+It covers key administrative functionalities including:
 
-Hadi Akbar
+- **Animal tracking and cage management**  
+- **Visitor logs and adoption records**  
+- **Keeper scheduling and care routines**  
+- **Insightful SQL queries for reports and analysis**
 
-Prabhas Dulam
+The system was developed using **SQL** and integrated with a **Java application via JDBC (Java Database Connectivity)**. This allowed for dynamic interaction with the database, including real-time schema creation, data insertion, and query execution from a Java interface.
 
-Rudolph Stephen
+This repository includes the ER diagram, DDL statements, sample insert scripts, Java source code (with JDBC), and a final project report.
 
+### Team Members
+- Christian Dennis  
+- Hadi Akbar  
+- Rudolph Stephen  
+- Prabhas Dulam
