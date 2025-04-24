@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SQLiteClient
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=
+comment3.target=void\ testConnection()
+comment4.params=
+comment4.target=void\ executeSQL()
+comment5.params=title\ header\ content
+comment5.target=void\ showAlert(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=6
